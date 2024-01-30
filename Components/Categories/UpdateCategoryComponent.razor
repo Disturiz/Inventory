@@ -1,0 +1,37 @@
+﻿@using Entitites
+@using Business
+
+
+<div>
+    <EditForm Model="oCategory">
+        <div class="form-group">
+            <label for="name">Nombre de la Categoria:</label>
+            <InputText id="name" @bind-Value="oCategory.CategoryName" class="form-control" />
+            <ValidationMessage For="@(()=> oCategory.CategoryName)" class="text-danger" />
+        </div>
+        <div>
+            <input type="button" value="Actualizar Categoria" @onclick="UpdateCategory" />
+        </div>
+    </EditForm>
+</div>
+
+@code {
+    [Parameter]
+    public string IdCategory { get; set; }
+    CategoryEntity oCategory = new CategoryEntity();
+   
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        oCategory = B_Category.CategoryId(IdCategory);
+    }
+
+    private void UpdateCategory()
+    {
+        B_Category.UpdateCategory(oCategory);
+        
+    }
+
+
+}

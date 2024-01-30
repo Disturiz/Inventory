@@ -1,0 +1,147 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Inventory
+build_property.RootNamespace = Inventory
+build_property.ProjectDir = C:\Users\distu\OneDrive\Documentos\Plazit\Inventory\Inventory\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\distu\OneDrive\Documentos\Plazit\Inventory\Inventory
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Categories/CreateCategoryComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXRlZ29yaWVzXENyZWF0ZUNhdGVnb3J5Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Categories/ListCategoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXRlZ29yaWVzXExpc3RDYXRlZ29yaWVzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Categories/UpdateCategoryComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXRlZ29yaWVzXFVwZGF0ZUNhdGVnb3J5Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Ejercicios/BlazorPages/Form001.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFamVyY2ljaW9zXEJsYXpvclBhZ2VzXEZvcm0wMDEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Ejercicios/Forms/Form002.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFamVyY2ljaW9zXEZvcm1zXEZvcm0wMDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/InOuts/CreateInOutComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbk91dHNcQ3JlYXRlSW5PdXRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Products/CreateProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0c1xDcmVhdGVQcm9kdWN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Products/Listproductscomponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0c1xMaXN0cHJvZHVjdHNjb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Products/UpdateProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0c1xVcGRhdGVQcm9kdWN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Storages/CreateStorageComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdG9yYWdlc1xDcmVhdGVTdG9yYWdlQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Warehouses/CreateWarehouseComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXYXJlaG91c2VzXENyZWF0ZVdhcmVob3VzZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Components/Warehouses/ListWarehouseComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXYXJlaG91c2VzXExpc3RXYXJlaG91c2VDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Categories/CreateCategoryPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGVDYXRlZ29yeVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Categories/ListCategoryPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xMaXN0Q2F0ZWdvcnlQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Categories/UpdateCategoryPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xVcGRhdGVDYXRlZ29yeVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Products/CreateProductPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlUHJvZHVjdFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Products/ListProductPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcTGlzdFByb2R1Y3RQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Products/UpdateProductPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcVXBkYXRlUHJvZHVjdFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Storages/CreateStoragePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmFnZXNcQ3JlYXRlU3RvcmFnZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Warehouses/CreateWarehousePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FyZWhvdXNlc1xDcmVhdGVXYXJlaG91c2VQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Warehouses/ListWarehousePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FyZWhvdXNlc1xMaXN0V2FyZWhvdXNlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xnkuzh7ub0
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-90nuob3xry
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/distu/OneDrive/Documentos/Plazit/Inventory/Inventory/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

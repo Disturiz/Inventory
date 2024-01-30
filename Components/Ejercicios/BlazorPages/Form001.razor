@@ -1,0 +1,39 @@
+﻿
+<input type="text" @bind-value="@message" />
+<input type="text" @bind-value="@text" />
+<input type="button" value="Clic aquí" @onclick="ChangeText" />
+<div>
+    @message
+</div>
+
+
+@code
+{
+    [Parameter]
+    public string Message { get; set; }
+
+
+    //string user = "";
+    //string email = "";
+    //string msg = "";
+
+    string message = "Un contenido";
+    string text;
+
+    protected override async Task OnInitializedAsync() =>  message = Message;
+    
+
+    private async void ChangeText()
+    {
+        /*if (string.IsNullOrEmpty(user) | string.IsNullOrEmpty(email))
+        {
+            await JsRuntime.InvokeVoidAsync("alert", "Usuario oemail están vacio!"); // Alert
+        }
+        else
+        {
+            messagesg = $"usuario: {user} , correo:{email}";
+        }*/
+
+
+    }
+}
